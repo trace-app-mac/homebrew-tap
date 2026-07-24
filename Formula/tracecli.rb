@@ -1,9 +1,9 @@
 class Tracecli < Formula
   desc "Query past Trace meetings and control the app from the command line"
   homepage "https://traceapp.info"
-  version "1.1.0"
-  url "https://github.com/trace-app-mac/homebrew-tap/releases/download/tracecli-v1.1.0/tracecli-1.1.0-arm64.tar.gz"
-  sha256 "ff0dde9f25b80560a7f7bcb0bff41cd9ae13d60aeb55bba39d592af84377430a"
+  version "1.2.0"
+  url "https://github.com/trace-app-mac/homebrew-tap/releases/download/tracecli-v1.2.0/tracecli-1.2.0-arm64.tar.gz"
+  sha256 "60429f5729bf4cc8c5920a7d51a800949d3e7dc7fe61b5e989339e2860c8acab"
   depends_on arch: :arm64
   depends_on macos: :ventura
 
